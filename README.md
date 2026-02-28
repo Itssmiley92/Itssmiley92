@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Itssmiley92
-- 👀 I’m interested in ... CMD and HTML
-- 🌱 I’m currently learning ... CMD and HTML
+- 👀 I’m interested in ... Javascript, Python and HTML
+- 🌱 I’m currently learning ... Javascript and HTML
 - 😄 Pronouns: ... He / Him
 - ⚡ Fun fact: ... I like to play around with code
 
