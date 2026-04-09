@@ -1,7 +1,7 @@
-Hello there :D <break>
-If for some reason you want to know more about me: <break>
-Fav Games: SWTOR, SWBF2, HK, <break>
-Coding languages: C++, Python (work in progress) <break>
+Hello there :D <br>
+If for some reason you want to know more about me: <br>
+Fav Games: SWTOR, SWBF2, HK, <br>
+Coding languages: C++, Python (work in progress) <br>
 📎🐧🍁
 <!---
 Itssmiley92/Itssmiley92 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
